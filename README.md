@@ -1,4 +1,4 @@
 mCSS
 ====
 
-Biblioteca CSS, HTML, JS
+Framework CSS, HTML, JS
